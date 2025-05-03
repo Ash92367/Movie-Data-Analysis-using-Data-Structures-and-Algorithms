@@ -1,0 +1,2 @@
+# Movie-Data-Analysis-using-Data-Structures-and-Algorithms
+Movie Data Analysis using Data Structures and Algorithms uses key data structures like Binary Search Tree (BST), Heap, and Graph, combined with algorithms like Dijkstra’s and Prim’s, to manage and analyze movie data. The project focuses on sorting, searching, and traversing data based on director names, movie durations, and critic reviews.
